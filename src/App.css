@@ -1,0 +1,12 @@
+@import url('https://fonts.googleapis.com/css2?family=Jost:ital,wght@0,100;0,200;0,400;0,500;0,600;0,700;1,300&family=Open+Sans:wght@400;600&family=Playfair+Display:wght@400;600&display=swap');
+body{
+    font-family: 'Jost', sans-serif;
+    
+}
+
+nav{
+    z-index:10001 !important ;
+}
+.gradientBg{
+background: linear-gradient(99deg, #0c9942  , #8ff576 100%)
+}
