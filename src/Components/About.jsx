@@ -1,9 +1,8 @@
 
-
 const About = () => {
   return (
    <div className="pt-20">
-    hello 
+    Bardali. Digital Marketing . Branding . Event Management . IT Solutions.
    </div>
   )
 }
